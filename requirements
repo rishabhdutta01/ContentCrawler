@@ -1,0 +1,4 @@
+setuptools
+scrapy
+sqlalchemy
+pandas
